@@ -1,0 +1,18 @@
+[info]
+server_port = 43279
+recive_port = 43279
+check_period = 20
+check_timeout = 30
+server_ip = 192.168.11.1
+beat_period = 5
+send_info = TEST
+rank1_send=5
+rank2_send=10
+rank3_send=15
+rank1_range_max=1
+rank2_range_min=1
+rank2_range_max=3
+rank3_range_min=3
+fact=0.1
+PING_THRESHOLD=3
+myid=0
